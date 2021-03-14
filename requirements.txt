@@ -1,0 +1,15 @@
+System requirements:
+1. Processors: Intel Atom® processor or Intel® Core™ i3 processor.
+2. Disk space: 1 GB.
+3. Operating systems: Windows* 7 or later, macOS, and Linux.
+
+Software requirements:
+1. Python version: 3.7+
+2. Redis
+
+Third party python libraries required:
+1. requests
+2. BeautifulSoup
+3. redis
+4. argparse
+
