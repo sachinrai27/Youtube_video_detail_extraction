@@ -47,7 +47,7 @@ The above details are stored in a dictionary which is furthur pushed to a differ
 3. request_save.py:
 This script reads data from redis list('vide_meta') and furthur saves the data in a csv file.
 
-**tput:**
+**Output:**
 The final output is stored in a csv file.
 
 
